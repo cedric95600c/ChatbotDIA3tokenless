@@ -1,5 +1,5 @@
 # Song-Recommander
-A little song recommander in python
+A little song recommander in python (a noter que ce code n'est pas fonctionnel en local, car il faut un token d'accès fournit dans le .zip pour lancer le serveur en local)
 
 ## Installation
 No need our server is host on heroku just head over https://discord.gg/ukfmUH5Q5e and start typing
