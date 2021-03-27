@@ -15,3 +15,7 @@ No need our server is host on heroku just head over https://discord.gg/ukfmUH5Q5
 |Recommendation  can you recommend me a song by {artist} from  {year} by {genre}  | a song from 1979 artist: KISS I Was Made For Lovin' You  | recommend a song from Kiss from 1979  |
 |play {song} or {positions in output}                                           | if you want to play this song type precisely: music.play {song}                              | play Dance Monkey     |
 |(If you are on a voice channel) music.play {song} |Enqueued {song} *play the song in the voice channel* |music.play I Want To Break Free
+
+## Know bug
+Sometime the command music.play {song} enqueu the song but didn't play it
+try music.leave then music.join to solve the problem
