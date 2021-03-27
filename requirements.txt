@@ -1,0 +1,10 @@
+async-timeout         ==             3.0.1
+discord               ==             1.0.1
+ffmpeg
+discord.py            ==             1.6.0
+youtube-dl            ==             2021.3.25
+pandas                ==             1.0.1
+nltk                  ==             3.4.5
+PyNaCl
+discord.py[voice] ~= 1.4.0
+colorlog
