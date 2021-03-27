@@ -1,6 +1,9 @@
 # Song-Recommander
-A little song recommander in python (a noter que ce code n'est pas fonctionnel en local, car il faut un token d'accès fournit dans le .zip pour lancer le serveur en local)
+A little song recommander in python 
 
+## Rendu Requirements
+If you clone from here the code won't compile, i delete the token because it's a public repo however in the .zip the code will compile
+Also the video is in the zip but is too big to be put here
 ## Installation
 No need our server is host on heroku just head over https://discord.gg/ukfmUH5Q5e and start typing
 
